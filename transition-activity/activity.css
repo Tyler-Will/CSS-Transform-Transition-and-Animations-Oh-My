@@ -1,1 +1,6 @@
+button{
+    background-color: ghostwhite;
+    border-radius: 2em;
+    transition: 500ms ease-in;
+}
 
